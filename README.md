@@ -39,7 +39,7 @@ Because it could choose spike of θ because it has higher probability
 
 ### Univariate Gaussian mean
 
-![\theta_{MAP} =  \overline{\chi} * \frac{n}{n + \sigma^2} + \mu * \frac{\sigma^2}{n + \sigma^2}](https://latex.codecogs.com/gif.latex?\inline&space;\theta_{MAP}&space;=&space;\overline{\chi}&space;*&space;\frac{n}{n&space;&plus;&space;\sigma^{2}}&space;&plus;&space;\mu&space;*&space;\frac{\sigma^{2}}{n&space;&plus;&space;\sigma^{2}})
+![\theta_{MAP} =  \overline{x} * \frac{n}{n + \sigma^2} + \mu * \frac{\sigma^2}{n + \sigma^2}](https://latex.codecogs.com/gif.latex?\inline&space;\theta_{MAP}&space;=&space;\overline{x}&space;*&space;\frac{n}{n&space;&plus;&space;\sigma^{2}}&space;&plus;&space;\mu&space;*&space;\frac{\sigma^{2}}{n&space;&plus;&space;\sigma^{2}})
 
 in other words it is sample mean plus prior mean.
 
