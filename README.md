@@ -43,6 +43,8 @@ Because it could choose spike of θ because it has higher probability
 
 in other words it is sample mean plus prior mean.
 
+![\theta_{MLE} = \overline{x}](https://latex.codecogs.com/gif.latex?\theta_{MLE}%20=%20\overline{x})
+
 ## Related Topics
 - The Cramer-Rao Lower Bound
   - [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
