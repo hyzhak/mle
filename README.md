@@ -42,3 +42,10 @@ Because it could choose spike of θ because it has higher probability
 - [Likelihood Ratio Test](https://en.wikipedia.org/wiki/Likelihood-ratio_test) (compare zero hypothesis with ml value)
 - [Wald Test](https://en.wikipedia.org/wiki/Wald_test)
 - etc
+
+## Videos
+
+### Jeff Miller (mathematicalmonk)
+- [(ML 6.1) Maximum a posteriori (MAP) estimation](https://www.youtube.com/watch?v=kkhdIriddSI)
+- [(ML 6.2) MAP for univariate Gaussian mean](https://www.youtube.com/watch?v=KogqeZ_88-g)
+- [(ML 6.3) Interpretation of MAP as convex combination](https://www.youtube.com/watch?v=SFQK57G5VF8)
