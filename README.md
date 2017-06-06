@@ -47,11 +47,12 @@ in other words it is sample mean plus prior mean.
 
 so when n->0 we get 
 
-![\theta_{MAP} \rightarrow \theta_{MLE}](https://latex.codecogs.com/gif.latex?\theta_{MAP}%20\rightarrow%20\theta_{MLE})
+![\theta_{MAP} \rightarrow \mu](https://latex.codecogs.com/gif.latex?\theta_{MAP}%20\rightarrow%20\mu)
 
 but when n->∞ we get
 
-![\theta_{MAP} \rightarrow \mu](https://latex.codecogs.com/gif.latex?\theta_{MAP}%20\rightarrow%20\mu)
+![\theta_{MAP} \rightarrow \theta_{MLE}](https://latex.codecogs.com/gif.latex?\theta_{MAP}%20\rightarrow%20\theta_{MLE})
+
 
 ## Related Topics
 - The Cramer-Rao Lower Bound
