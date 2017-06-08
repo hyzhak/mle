@@ -53,6 +53,9 @@ but when n->∞ we get
 
 ![\theta_{MAP} \rightarrow \theta_{MLE}](https://latex.codecogs.com/gif.latex?\theta_{MAP}%20\rightarrow%20\theta_{MLE})
 
+- [MLE symbolic example](/hyzhak/mle/blob/master/mle.ipynb)
+- [MLE statsmodel example](/hyzhak/mle/blob/master/mle-statsmodel.ipynb)
+
 
 ## Related Topics
 - The Cramer-Rao Lower Bound
